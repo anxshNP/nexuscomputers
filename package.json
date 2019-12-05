@@ -1,0 +1,39 @@
+{
+  "name": "nexuscomputers",
+  "version": "0.0.1",
+  "description": "Nexus Computer official Website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/anxshNP/nexuscomputers.git"
+  },
+  "keywords": [
+    "Nexus",
+    "Computer",
+    "nexuscomputerclinic"
+  ],
+  "author": "An Sh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anxshNP/nexuscomputers/issues"
+  },
+  "homepage": "https://github.com/anxshNP/nexuscomputers#readme",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "@zeit/next-sass": "^1.0.1",
+    "next": "^9.1.4",
+    "node-sass": "^4.13.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.14",
+    "@types/react": "^16.9.15",
+    "typescript": "^3.7.3"
+  }
+}
